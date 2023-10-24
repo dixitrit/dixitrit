@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! I'm passionate about DevOps, Infrastructure as Code, and building robust, scalable, and efficient systems. Here, you'll find some of my recent projects and contributions.   
 
-🏢 I’m currently working in [KNNX Corp](https://www.knnx.com/) as **DevOps Engineer**
+🏢 I’m currently working in [KNNX Corp](https://www.knnx.com/) (formerly DLT Labs)as **DevOps Engineer**
 
 🌱 I’ve the unserstanding of **Setting up infra using Terraform over AWS**
 
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about DevOps, Infrastructure as Cod
 ## 📫 Contact
 
  <p align="left"> <a href="https://linkedin.com/in/riteshkumardixit" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="ritesh" width="22px" /></a>
- (https://linkedin.com/in/riteshkumardixit)</p>
+ [https://linkedin.com/in/riteshkumardixit]</p>
  <p align="left"> <a target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" alt="gmail" width="22px" /></a>
  [riteshaws29@gmail.com]</p>
 
