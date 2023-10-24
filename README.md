@@ -2,9 +2,13 @@
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/riteshkumardixit/" target="blank">
+<a href="https://linkedin.com/in/riteshkumardixit" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
+  &nbsp;&nbsp;
+<a href="dixitritesh1998@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" alt="yatharth7" width="22px" />
+</a></p>
 
 ## DevOps Engineer | Infrastructure as Code | CI/CD | Automation
 
