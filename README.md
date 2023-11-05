@@ -15,13 +15,15 @@ Welcome to my GitHub profile! I'm passionate about DevOps, Infrastructure as Cod
 
 - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github]()
 
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github]()
+- 📦 Docker-compose file dockerizing a nodejs application with nginx reverse proxy. - [Github]()
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github]()
+- 📦 Shell script for automatic log rotation. - [Github]()
+
+- 📦 Setting up a jenkins pipeline for CI/CD of various microservices. - [Github]()
+
+- 📦 Setting up EFK (Elasticsearch, Filebeats, Kibana) for microservices log visualisation. - [Github]()
 
 - 📦 Setting up Prometheus and Grafana with node_exporter and cadvisor as client for infrastructure monitoring. - [Github]()
-
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github]()
 
 ##### 🧾 Certifications I have Accomplished
 
