@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about DevOps, Infrastructure as Cod
 
 - 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github]()
 
-- 📦 CI of a python application using circleCI - [Github]()
+- 📦 Setting up Prometheus and Grafana with node_exporter and cadvisor as client for infrastructure monitoring. - [Github]()
 
 - 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github]()
 
