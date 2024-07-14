@@ -27,13 +27,8 @@ Welcome to my GitHub profile! I'm passionate about DevOps, Infrastructure as Cod
 
 ##### 🧾 Certifications I have Accomplished
 
-- 🎖 Cloud DevOps NanoDegree - [Udacity]()
+- 🎖 Ansible by VR Technologies
 
-- 🎖 Various Certification of Docker and Kubernetes - Pluralsight
-
-- 🎖 AWS Concepts - LinuxAcademy
-
-- 🎖 Packaging Applications using Helm - Pluralsight and many more...
    
 #### Programming Language Stack  
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/><img</p>  
